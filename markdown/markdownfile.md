@@ -1,15 +1,15 @@
 # Absolute path
-1. `C:/temp/vscode#7898/markdown/screenshots/pic.jpg`  
-![](C:/temp/vscode#7898/markdown/screenshots/pic.jpg)
+1. `C:/temp/TestVscode-7898/markdown/screenshots/pic.jpg`  
+![](C:/temp/TestVscode-7898/markdown/screenshots/pic.jpg)
 
-1. `C:/temp/vscode#7898/markdown/screenshots/pic.jpg`  
-![](C:/temp/vscode#7898/markdown/screenshots/pic one.jpg)
+1. `C:/temp/TestVscode-7898/markdown/screenshots/pic.jpg`  
+![](C:/temp/TestVscode-7898/markdown/screenshots/pic one.jpg)
 
-1. `C:\temp\vscode#7898\markdown\screenshots\pic.jpg`  
-![](C:\temp\vscode#7898\markdown\screenshots\pic.jpg)
+1. `C:\temp\TestVscode-7898\markdown\screenshots\pic.jpg`  
+![](C:\temp\TestVscode-7898\markdown\screenshots\pic.jpg)
 
-1. `C:\temp\vscode#7898\markdown\screenshots\pic.jpg`  
-![](C:\temp\vscode#7898\markdown\screenshots\pic one.jpg)
+1. `C:\temp\TestVscode-7898\markdown\screenshots\pic.jpg`  
+![](C:\temp\TestVscode-7898\markdown\screenshots\pic one.jpg)
 
 # Relative to workspace
 1. `markdown/screenshots/pic.jpg`  
